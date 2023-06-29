@@ -1,0 +1,17 @@
+{
+	"name": "@limbo-works/lint-configs",
+	"version": "1.0.0",
+	"description": "Package for eslint and prettier configs",
+	"main": "index.cjs",
+	"scripts": {
+		"lint": "yarn prettier --check . && yarn eslint --quiet .",
+		"lint:fix": "yarn prettier --write . && yarn eslint --fix --quiet ."
+	},
+	"dependencies": {
+		"@unocss/eslint-config": "^0.53.4",
+		"eslint": "^8.20.0",
+		"eslint-config-prettier": "^8.5.0",
+		"eslint-plugin-vue": "^9.9.0",
+		"prettier": "^2.7.1"
+	}
+}
