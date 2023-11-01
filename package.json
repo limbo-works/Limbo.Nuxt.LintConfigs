@@ -1,6 +1,6 @@
 {
 	"name": "@limbo-works/lint-configs",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "Package for eslint and prettier configs",
 	"main": "index.cjs",
 	"scripts": {

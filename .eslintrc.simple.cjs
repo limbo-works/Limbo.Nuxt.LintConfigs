@@ -32,10 +32,6 @@ module.exports = {
 			'error',
 			{
 				ignores: [
-					'app',
-					'App',
-					'error',
-					'default',
 					'[...]',
 					'[...slug]',
 					'[...page]',
@@ -45,4 +41,10 @@ module.exports = {
 			},
 		],
 	},
+	overrides: [
+		{
+			files: ['./*.vue', 'layouts/*.vue'],
+			rules: { 'vue/multi-word-component-names': 'off' },
+		},
+	]
 };
