@@ -35,7 +35,6 @@ module.exports = {
 					'app',
 					'App',
 					'error',
-					'default',
 					'[...]',
 					'[...slug]',
 					'[...page]',
