@@ -45,4 +45,10 @@ module.exports = {
 			},
 		],
 	},
+	overrides: [
+		{
+			files: ['layouts/*.vue'],
+			rules: { 'vue/multi-word-component-names': 'off' },
+		},
+	]
 };
