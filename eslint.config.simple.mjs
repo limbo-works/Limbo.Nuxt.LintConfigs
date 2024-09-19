@@ -33,5 +33,6 @@ export default [
 			'vue/no-multiple-template-root': 0,
 			'vue/multi-word-component-names': 'off',
 		},
+		ignores: ['**/.nuxt/', '**/.output/'],
 	},
 ];
