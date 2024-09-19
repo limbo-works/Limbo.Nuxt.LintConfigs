@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/limbo-works/Limbo.Nuxt.LintConfigs/compare/v1.1.0...v2.0.0) (2024-09-19)
+
+
+### ⚠ BREAKING CHANGES
+
+* upgraded to latest eslint and flat configs
+
+### Features
+
+* upgraded to latest eslint and flat configs ([007c9fa](https://github.com/limbo-works/Limbo.Nuxt.LintConfigs/commit/007c9faba078290e76cf7af2f700e3ff7dc87239))
+
 ## [1.1.0](https://github.com/limbo-works/Limbo.Nuxt.LintConfigs/compare/1.0.3...v1.1.0) (2024-09-03)
 
 ### Features
