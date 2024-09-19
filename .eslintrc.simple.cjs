@@ -6,7 +6,6 @@ module.exports = {
 		'plugin:vue/vue3-recommended',
 		'prettier',
 	],
-	overrides: [],
 	parserOptions: {
 		ecmaVersion: 'latest',
 		sourceType: 'module',
@@ -46,5 +45,5 @@ module.exports = {
 			files: ['./**/*.vue'],
 			rules: { 'vue/multi-word-component-names': 'off' },
 		},
-	]
+	],
 };
