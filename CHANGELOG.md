@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.1](https://github.com/limbo-works/Limbo.Nuxt.LintConfigs/compare/v2.0.0...v2.0.1) (2024-09-19)
+
+
+### Bug Fixes
+
+* added some ignores ([5249c0f](https://github.com/limbo-works/Limbo.Nuxt.LintConfigs/commit/5249c0f390c28b3dd274e574f20b7972595b26f9))
+
 ## [2.0.0](https://github.com/limbo-works/Limbo.Nuxt.LintConfigs/compare/v1.1.0...v2.0.0) (2024-09-19)
 
 
