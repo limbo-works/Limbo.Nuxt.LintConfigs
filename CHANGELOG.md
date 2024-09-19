@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.2](https://github.com/limbo-works/Limbo.Nuxt.LintConfigs/compare/v2.0.1...v2.0.2) (2024-09-19)
+
+
+### Bug Fixes
+
+* made the ignores global ([06b45a8](https://github.com/limbo-works/Limbo.Nuxt.LintConfigs/commit/06b45a8c82f114f367bbb7ca8b1475a59e76ea0a))
+
 ## [2.0.1](https://github.com/limbo-works/Limbo.Nuxt.LintConfigs/compare/v2.0.0...v2.0.1) (2024-09-19)
 
 
