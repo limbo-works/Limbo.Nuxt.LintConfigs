@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.3](https://github.com/limbo-works/Limbo.Nuxt.LintConfigs/compare/v2.0.2...v2.0.3) (2024-09-24)
+
+
+### Bug Fixes
+
+* added globals myself ([f80e6ab](https://github.com/limbo-works/Limbo.Nuxt.LintConfigs/commit/f80e6ab5e76419b026430ccc7346007f5d8ffc58))
+
 ## [2.0.2](https://github.com/limbo-works/Limbo.Nuxt.LintConfigs/compare/v2.0.1...v2.0.2) (2024-09-19)
 
 
