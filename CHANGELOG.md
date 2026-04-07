@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.0](https://github.com/limbo-works/Limbo.Nuxt.LintConfigs/compare/v2.0.3...v2.1.0) (2026-04-07)
+
+
+### Features
+
+* made some upgrades ([9113547](https://github.com/limbo-works/Limbo.Nuxt.LintConfigs/commit/911354741ce235d616ae718ed9ec59dea04f2c1d))
+
 ## [2.0.3](https://github.com/limbo-works/Limbo.Nuxt.LintConfigs/compare/v2.0.2...v2.0.3) (2024-09-24)
 
 
