@@ -22,6 +22,7 @@ module.exports = {
 		semi: ['error', 'always'],
 		'prefer-destructuring': ['warn', { object: true, array: false }],
 		'no-unused-vars': ['warn'],
+		'no-useless-assignment': 0,
 		'no-undef': 0,
 		'vue/no-v-html': 0,
 		'vue/no-v-text-v-html-on-component': 0,
