@@ -8,11 +8,13 @@
 		"lint:fix": "yarn prettier --write . && yarn eslint --fix --quiet ."
 	},
 	"dependencies": {
-		"@unocss/eslint-config": "^0.62.4",
-		"eslint": "^9.10.0",
-		"eslint-config-prettier": "^9.1.0",
-		"eslint-plugin-vue": "^9.28.0",
-		"globals": "^15.9.0",
-		"prettier": "^3.3.3"
+		"@eslint/js": "^10.0.1",
+		"@unocss/eslint-config": "^66.6.7",
+		"eslint": "^10.2.0",
+		"eslint-config-prettier": "^10.1.8",
+		"eslint-plugin-vue": "^10.8.0",
+		"globals": "^17.4.0",
+		"prettier": "^3.8.1",
+		"vue-eslint-parser": "^10.4.0"
 	}
 }
