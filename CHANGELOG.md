@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.1.1](https://github.com/limbo-works/Limbo.Nuxt.LintConfigs/compare/v2.1.0...v2.1.1) (2026-04-07)
+
+
+### Bug Fixes
+
+* disabled a rule that caused false negatives ([a0938d2](https://github.com/limbo-works/Limbo.Nuxt.LintConfigs/commit/a0938d231994554d72fd30ecb3b43360e908d40f))
+* not false, just misunderstood ([5cd0f7c](https://github.com/limbo-works/Limbo.Nuxt.LintConfigs/commit/5cd0f7cfb9b9203357dbe2e900ec23e0fe4079e5))
+
 ## [2.1.0](https://github.com/limbo-works/Limbo.Nuxt.LintConfigs/compare/v2.0.3...v2.1.0) (2026-04-07)
 
 
